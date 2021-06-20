@@ -5,6 +5,6 @@
 - 📫 How to reach me georgeotway@gmail.com
 
 <!---
-My name is George Otway  ✨ About me ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+My name is George Otway  ✨ About me ✨ I am looking to become a Full-stack web developer. I am currently taking online classes through Nucamp
+to help me reach this goal. I have always been intrested in learning coding and have now put the peices in place so I can make it a reality.
 --->
